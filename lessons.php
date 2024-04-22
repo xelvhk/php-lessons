@@ -1,4 +1,4 @@
-<?php
+// <?php
 // =========== Task 1. Trimming function ==============
 // function truncate($text,$count)
 // {
@@ -22,6 +22,22 @@
 //     } else {
 //         $domain = $url;
 //     }
-
 //     return "https://{$domain}";
+// }
+
+// =========== Task 4. Simple calculator ==============
+// function calculate($op,$num1,$num2)
+// {
+//     switch ($op){
+//         case '+':
+//             return $num1 + $num2;
+//         case '-':
+//             return $num1 - $num2;
+//         case '/':
+//             return $num1 / $num2;
+//         case '*':
+//             return $num1 * $num2;
+//         default:
+//             return null;
+//     }
 // }
