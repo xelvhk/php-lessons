@@ -89,6 +89,7 @@
 //     }
 //     return true;
 // }
+
 // =========== Task 8. Vowel check function ==============
 // namespace App\Symbols;
 // function isVowel($char)
@@ -106,4 +107,19 @@
 //         $count +=1;
 //     };}
 // return $count;
+// }
+
+// =========== Task 9. Number flip function ==============
+// function reverse (int $num) {
+//     if ($num > 0){
+//         $temp = strrev(strval($num));
+//     }
+//     elseif ($num === 0) {
+//         $temp = 0;
+//     }
+//     else {
+//         $temp = "-".strrev(strval($num));
+//     }
+    
+//     return intval($temp);
 // }
