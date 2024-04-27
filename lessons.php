@@ -120,7 +120,6 @@
 //     else {
 //         $temp = "-".strrev(strval($num));
 //     }
-    
 //     return intval($temp);
 // }
 
@@ -129,3 +128,19 @@
 //     $sum = bindec($num1) + bindec($num2);
 //     return decbin($sum);
 // }
+
+// =========== Task 11. Removing, changing and reset array values ==============
+// function apply(array $items, string $operationName, int $index = null, $value = null): array {
+// $result = $items;
+//     switch ($operationName) {
+//         case 'reset':
+//             $result = [];
+//             break;
+//         case 'change':
+//             $result[$index] = $value;
+//             break;
+//         case 'remove':
+//             unset($result[$index]);
+//             break;
+//     }
+// return $result;
