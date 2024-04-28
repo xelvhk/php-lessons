@@ -147,9 +147,19 @@
 //             break;
 //     }
 // return $result;
+  
 // =========== Task 11. Array item index check with ternary operator ==============
-
 // function get(array $arr, int $index, $default = null)
 // {
 //     return array_key_exists($index, $arr) ? $arr[$index] : $default;
+// }
+
+// =========== Task 12. Adding prefix to array items ==============
+// function addPrefix($arr, $pref)
+// {
+//     for ($i = 0; $i < count($arr); $i++)
+//     {
+//         $arr[$i] = $pref . " " . $arr[$i];
+//     }
+//     return $arr;
 // }
