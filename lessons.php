@@ -110,7 +110,8 @@
 // }
 
 // =========== Task 9. Number flip function ==============
-// function reverse (int $num) {
+// function reverse (int $num) 
+{
 //     if ($num > 0){
 //         $temp = strrev(strval($num));
 //     }
@@ -124,7 +125,8 @@
 // }
 
 // =========== Task 10. Sum of binary digits ==============
-// function binarySum (string $num1, string $num2) {
+// function binarySum (string $num1, string $num2)
+{
 //     $sum = bindec($num1) + bindec($num2);
 //     return decbin($sum);
 // }
@@ -132,7 +134,8 @@
 // =========== Task 11. Removing, changing and reset array values ==============
 // function apply(array $items, string $operationName, int $index = null, $value = null): array {
 // $result = $items;
-//     switch ($operationName) {
+//     switch ($operationName) 
+{
 //         case 'reset':
 //             $result = [];
 //             break;
@@ -144,3 +147,9 @@
 //             break;
 //     }
 // return $result;
+// =========== Task 11. Array item index check with ternary operator ==============
+
+// function get(array $arr, int $index, $default = null)
+// {
+//     return array_key_exists($index, $arr) ? $arr[$index] : $default;
+// }
