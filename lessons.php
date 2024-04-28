@@ -90,7 +90,7 @@
 //     return true;
 // }
 
-// =========== Task 8. Vowel check function ==============
+// =========== Task 9. Vowel check function ==============
 // namespace App\Symbols;
 // function isVowel($char)
 // {
@@ -109,9 +109,9 @@
 // return $count;
 // }
 
-// =========== Task 9. Number flip function ==============
+// =========== Task 10. Number flip function ==============
 // function reverse (int $num) 
-{
+// {
 //     if ($num > 0){
 //         $temp = strrev(strval($num));
 //     }
@@ -124,18 +124,19 @@
 //     return intval($temp);
 // }
 
-// =========== Task 10. Sum of binary digits ==============
+// =========== Task 11. Sum of binary digits ==============
 // function binarySum (string $num1, string $num2)
-{
+// {
 //     $sum = bindec($num1) + bindec($num2);
 //     return decbin($sum);
 // }
 
-// =========== Task 11. Removing, changing and reset array values ==============
-// function apply(array $items, string $operationName, int $index = null, $value = null): array {
+// =========== Task 12. Removing, changing and reset array values ==============
+// function apply(array $items, string $operationName, int $index = null, $value = null): array
+// {
 // $result = $items;
 //     switch ($operationName) 
-{
+// {
 //         case 'reset':
 //             $result = [];
 //             break;
@@ -148,13 +149,13 @@
 //     }
 // return $result;
   
-// =========== Task 11. Array item index check with ternary operator ==============
+// =========== Task 13. Array item index check with ternary operator ==============
 // function get(array $arr, int $index, $default = null)
 // {
 //     return array_key_exists($index, $arr) ? $arr[$index] : $default;
 // }
 
-// =========== Task 12. Adding prefix to array items ==============
+// =========== Task 14. Adding prefix to array items ==============
 // function addPrefix($arr, $pref)
 // {
 //     for ($i = 0; $i < count($arr); $i++)
@@ -164,7 +165,7 @@
 //     return $arr;
 // }
 
-// =========== Task 13. Swapping array items ==============
+// =========== Task 15. Swapping array items ==============
 // function swap($arr, $index)
 // {
 //     if (array_key_exists($index, $arr) && array_key_exists($index - 1, $arr) && array_key_exists($index + 1, $arr)) {
@@ -173,4 +174,20 @@
 //         $arr[$index + 1] = $temp;
 //     }
 //     return $arr;
+// }
+
+// =========== Task 16. Checking the sequence of numbers in an array ==============
+// function isContinuousSequence($numbers)
+// {
+//     if (count($numbers) <= 1) {
+//         return false;
+//     }
+//     $start = $numbers[0];
+//     foreach ($numbers as $num) {
+//         if ($num !== $start) {
+//             return false;
+//         }
+//         $start++;
+//     }
+//     return true;
 // }
