@@ -24,3 +24,4 @@ This repository contains my solutions to practical problems in the course. The s
 - Formatting html code from array
 - Censoring a line
 - Counting of unique elements of two arrays
+- Sorting array with bubble method
