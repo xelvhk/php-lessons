@@ -277,7 +277,7 @@
 //     return $array;
 // }
 
-// =========== Task 22. Happy ticket ==============
+// =========== Task 23. Happy ticket ==============
 // function isHappy (string $num)
 // {
 //     $trim = strlen($num)/2;
@@ -291,7 +291,7 @@
 //     }
 //     }
 
-// =========== Task 23. Searching for intersections of sorted arrays ==============
+// =========== Task 24. Searching for intersections of sorted arrays ==============
 // function getIntersectionOfSortedArray($arr1, $arr2) {
 //     $result = [];
 //     $i = 0;
@@ -308,4 +308,33 @@
 //         }
 //     }
 //     return $result;
+// }
+
+// =========== Task 25. Searching for nearest locations ==============
+// function getDistance(array $point1, array $point2)
+// {
+//     [$x1, $y1] = $point1;
+//     [$x2, $y2] = $point2;
+//     $xs = $x2 - $x1;
+//     $ys = $y2 - $y1;
+//     return sqrt($xs ** 2 + $ys ** 2);
+// }
+
+// function getTheNearestLocation(array $locations, array $currentPoint)
+// {
+//     if (empty($locations)) {
+//         return null;
+//     }
+//     [$nearestLocation] = $locations;
+//     [, $nearestPoint] = $nearestLocation;
+//     $lowestDistance = getDistance($currentPoint, $nearestPoint);
+//     foreach ($locations as $location) {
+//         [, $point] = $location;
+//         $distance = getDistance($currentPoint, $point);
+//         if ($distance < $lowestDistance) {
+//             $lowestDistance = $distance;
+//             $nearestLocation = $location;
+//         }
+//     }
+//     return $nearestLocation;
 // }
