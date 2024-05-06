@@ -26,3 +26,6 @@ This repository contains my solutions to practical problems in the course. The s
 - Counting of unique elements of two arrays
 - Sorting array with bubble method
 - Happy ticket
+- Searching for intersections of sorted arrays
+- Searching for nearest locations
+- Array flattening
