@@ -4,7 +4,7 @@ This repository contains my solutions to practical problems in the course. The s
 
 ## Content:
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/1%20-%20Trimming%20function.php">Trimming function</a>
-- Leap year detection function
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/2%20-%20Leap%20year%20detection%20function.php">Leap year detection function</a>
 - URL normalizing function
 - Simple calculator
 - Checking arguments for substr function
