@@ -1,14 +1,4 @@
 // <?php
-// =========== Task 1. Trimming function ==============
-// function truncate($text,$count) {
-//     $res = substr($text,0,$count)."...";
-//     return $res;
-// }
-
-// =========== Task 2. Leap year detection function ==============
-//function isLeapYear($year) {
-//    return $year % 400 == 0 || ($year % 100 != 0 && $year % 4 == 0);
-//}
 
 // =========== Task 3. URL normalizing function ==============
 // function normalizeUrl($url) {
