@@ -3,7 +3,7 @@
 This repository contains my solutions to practical problems in the course. The solutions have been tested and are correct.
 
 ## Content:
-- Trimming function
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/1%20-%20Trimming%20function.php">Trimming function</a>
 - Leap year detection function
 - URL normalizing function
 - Simple calculator
