@@ -1,36 +1,3 @@
-// <?php
-
-// =========== Task 4. Simple calculator ==============
-// function calculate($op,$num1,$num2) {
-//     switch ($op){
-//         case '+':
-//             return $num1 + $num2;
-//         case '-':
-//             return $num1 - $num2;
-//         case '/':
-//             return $num1 / $num2;
-//         case '*':
-//             return $num1 * $num2;
-//         default:
-//             return null;
-//     }
-// }
-
-// =========== Task 5. Checking arguments for substr function ==============
-// function isArgumentsForSubstrCorrect($str,$index,$length) {
-//     if ($index < 0 || $index >= strlen($str))
-//     {
-//         return false;
-//         }
-//     elseif ($length < 0 || $length + $index > strlen($str))
-//     {
-//         return false;
-//     }
-//     else {
-//         return true;
-//     }
-// }
-
 // =========== Task 6. Сase inversion ==============
 // function invertCase($text) {
 //     $result = '';
