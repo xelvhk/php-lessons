@@ -7,7 +7,7 @@ This repository contains my solutions to practical problems in the course. The s
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/2%20-%20Leap%20year%20detection%20function.php">Leap year detection function</a>
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/3%20-%20URL%20normalizing%20function.php">URL normalizing function</a>
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/4%20-%20Simple%20calculator.php">Simple calculator</a>
-- Checking arguments for substr function
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/5%20-%20Checking%20arguments%20for%20substr%20function.php">Checking arguments for substr function</a>
 - Сase inversion
 - Timestamp format
 - Palindrom check function
