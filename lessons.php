@@ -1,3 +1,4 @@
+<?php
 // =========== Task 10. Number flip function ==============
 // function reverse (int $num) 
 // {
