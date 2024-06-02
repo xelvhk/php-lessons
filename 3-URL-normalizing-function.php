@@ -1,6 +1,5 @@
 <?php
-
-=========== Task 3. URL normalizing function ==============
+//=========== Task 3. URL normalizing function ==============
 function normalizeUrl($url) {
     if (strpos($url, 'http://') === 0) {
         $domain = substr($url, 7);
