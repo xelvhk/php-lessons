@@ -1,4 +1,5 @@
-=========== Task 8. Palindrom check function ==============
+<?php
+//=========== Task 8. Palindrom check function ==============
 function isPalindrome(string $word) {
     $lastIndex = mb_strlen($word) - 1;
     $middleIndex = $lastIndex / 2;
