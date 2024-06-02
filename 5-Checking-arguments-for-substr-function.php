@@ -1,5 +1,5 @@
 <?php
-=========== Task 5. Checking arguments for substr function ==============
+//=========== Task 5. Checking arguments for substr function ==============
 function isArgumentsForSubstrCorrect($str,$index,$length) {
     if ($index < 0 || $index >= strlen($str))
     {
