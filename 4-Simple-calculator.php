@@ -1,4 +1,5 @@
-=========== Task 4. Simple calculator ==============
+<?php
+//=========== Task 4. Simple calculator ==============
 function calculate($op,$num1,$num2) {
     switch ($op){
         case '+':
