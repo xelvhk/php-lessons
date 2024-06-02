@@ -1,4 +1,5 @@
-=========== Task 6. Сase inversion ==============
+<?php
+//=========== Task 6. Сase inversion ==============
 function invertCase($text) {
     $result = '';
     for ($i = 0; $i < mb_strlen($text); $i += 1)
