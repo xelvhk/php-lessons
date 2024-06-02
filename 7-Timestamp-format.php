@@ -1,4 +1,5 @@
-=========== Task 7. Timestamp format ==============
+<?php
+//=========== Task 7. Timestamp format ==============
 function getCustomDate($time)
 {
  $fdate = date('d/m/Y', $time);
