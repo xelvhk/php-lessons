@@ -1,26 +1,4 @@
 <?php
-// =========== Task 10. Number flip function ==============
-// function reverse (int $num) 
-// {
-//     if ($num > 0){
-//         $temp = strrev(strval($num));
-//     }
-//     elseif ($num === 0) {
-//         $temp = 0;
-//     }
-//     else {
-//         $temp = "-".strrev(strval($num));
-//     }
-//     return intval($temp);
-// }
-
-// =========== Task 11. Sum of binary digits ==============
-// function binarySum (string $num1, string $num2)
-// {
-//     $sum = bindec($num1) + bindec($num2);
-//     return decbin($sum);
-// }
-
 // =========== Task 12. Removing, changing and reset array values ==============
 // function apply(array $items, string $operationName, int $index = null, $value = null): array
 // {
