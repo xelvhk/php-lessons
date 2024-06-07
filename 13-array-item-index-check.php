@@ -1,3 +1,5 @@
+<?php
+
 // =========== Task 13. Array item index check with ternary operator ==============
 function get(array $arr, int $index, $default = null)
 {
