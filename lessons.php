@@ -1,37 +1,4 @@
 <?php
-// =========== Task 12. Removing, changing and reset array values ==============
-// function apply(array $items, string $operationName, int $index = null, $value = null): array
-// {
-// $result = $items;
-//     switch ($operationName) 
-// {
-//         case 'reset':
-//             $result = [];
-//             break;
-//         case 'change':
-//             $result[$index] = $value;
-//             break;
-//         case 'remove':
-//             unset($result[$index]);
-//             break;
-//     }
-// return $result;
-  
-// =========== Task 13. Array item index check with ternary operator ==============
-// function get(array $arr, int $index, $default = null)
-// {
-//     return array_key_exists($index, $arr) ? $arr[$index] : $default;
-// }
-
-// =========== Task 14. Adding prefix to array items ==============
-// function addPrefix($arr, $pref)
-// {
-//     for ($i = 0; $i < count($arr); $i++)
-//     {
-//         $arr[$i] = $pref . " " . $arr[$i];
-//     }
-//     return $arr;
-// }
 
 // =========== Task 15. Swapping array items ==============
 // function swap($arr, $index)
