@@ -1,49 +1,5 @@
 <?php
 
-// =========== Task 15. Swapping array items ==============
-// function swap($arr, $index)
-// {
-//     if (array_key_exists($index, $arr) && array_key_exists($index - 1, $arr) && array_key_exists($index + 1, $arr)) {
-//         $temp = $arr[$index - 1];
-//         $arr[$index - 1] = $arr[$index + 1];
-//         $arr[$index + 1] = $temp;
-//     }
-//     return $arr;
-// }
-
-// =========== Task 16. Checking the sequence of numbers in an array ==============
-// function isContinuousSequence($numbers)
-// {
-//     if (count($numbers) <= 1) {
-//         return false;
-//     }
-//     $start = $numbers[0];
-//     foreach ($numbers as $num) {
-//         if ($num !== $start) {
-//             return false;
-//         }
-//         $start++;
-//     }
-//     return true;
-// }
-
-// =========== Task 17. Сhecking for closing parentheses ==============
-// function isBalanced($str)
-// {
-//     $openBracket = 0;
-//     for ($i = 0; $i < strlen($str); $i++) {
-//         if ($str[$i] == '(') {
-//             $openBracket++;
-//         } elseif ($str[$i] == ')') {
-//             if ($openBracket == 0) {
-//                 return false;
-//             }
-//             $openBracket--;
-//         }
-//     }
-//     return $openBracket == 0;
-// }
-
 // =========== Task 18. Getting total amount from array ==============
 // function getTotalAmount ($values, $currency)
 // {
