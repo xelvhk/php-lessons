@@ -1,34 +1,5 @@
 <?php
 
-// =========== Task 18. Getting total amount from array ==============
-// function getTotalAmount ($values, $currency)
-// {
-//     $sum = 0;
-//     foreach($values as $value)
-//     {   
-//         list($cur, $amount) = explode(' ', $value);
-//         if ($cur == $currency)
-//         {
-//             $sum += $amount;
-//         }
-//     }
-//     return $sum;
-// }
-
-// =========== Task 19. Formatting html code from array ==============
-// function buildDefinitionList($definitions)
-// {
-//     $parts = [];
-//     if (empty($definitions)) {
-//         return '';
-//     }
-//     foreach ($definitions as $item) {
-//         $parts[] = "<dt>{$item[0]}</dt><dd>{$item[1]}</dd>";
-//     }
-//     $code = implode('', $parts);
-//     return "<dl>{$code}</dl>";
-// }
-
 // =========== Task 20. Censoring a line ==============
 // function makeCensored(string $text, array $stopWords)
 // {
