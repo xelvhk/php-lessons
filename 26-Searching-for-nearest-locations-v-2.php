@@ -1,8 +1,7 @@
 <?php
 
 // =========== Task 26. Searching for nearest locations v.2 ==============
-function getDistance(array $point1, array $point2)
-{
+function getDistance(array $point1, array $point2) {
     [$x1, $y1] = $point1;
     [$x2, $y2] = $point2;
     $xs = $x2 - $x1;

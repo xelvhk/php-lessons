@@ -1,8 +1,7 @@
 <?php
 
 // =========== Task 22. Sorting array with bubble method ==============
-function bubbleSort($array)
-{
+function bubbleSort($array) {
     $num = count($array);
     do {
         $swapped = false;
@@ -15,6 +14,7 @@ function bubbleSort($array)
             }
         }
         $num--;
-    } while ($swapped);
+    }
+    while ($swapped);
     return $array;
 }

@@ -1,8 +1,7 @@
 <?php
 
 //=========== Task 19. Formatting html code from array ==============
-function buildDefinitionList($definitions)
-{
+function buildDefinitionList($definitions) {
     $parts = [];
     if (empty($definitions)) {
         return '';

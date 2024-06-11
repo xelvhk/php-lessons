@@ -1,7 +1,6 @@
 <?php
 // =========== Task 16. Checking the sequence of numbers in an array ==============
-function isContinuousSequence($numbers)
-{
+function isContinuousSequence($numbers) {
     if (count($numbers) <= 1) {
         return false;
     }
