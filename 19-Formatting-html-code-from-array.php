@@ -1,6 +1,6 @@
 <?php
 
-=========== Task 19. Formatting html code from array ==============
+//=========== Task 19. Formatting html code from array ==============
 function buildDefinitionList($definitions)
 {
     $parts = [];

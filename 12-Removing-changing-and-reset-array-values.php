@@ -1,5 +1,5 @@
 <?php
-=========== Task 12. Removing, changing and reset array values ==============
+//=========== Task 12. Removing, changing and reset array values ==============
 function apply(array $items, string $operationName, int $index = null, $value = null): array
 {
 $result = $items;
@@ -16,3 +16,4 @@ $result = $items;
             break;
     }
 return $result;
+}
