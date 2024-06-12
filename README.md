@@ -15,7 +15,7 @@ This repository contains my solutions to practical problems in the course. The s
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/10-Number-flip-function.php">Number flip function</a>
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/11-Sum-of-binary-digits.php">Sum of binary digits</a>
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/12-Removing-changing-and-reset-array-values.php">Removing, changing and reset array values</a>
-- Array item index check with ternary operator
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/13-array-item-index-check.php">Array item index check with ternary operator</a>
 - Adding prefix to array items
 - Swapping array items
 - Checking the sequence of numbers in an array
