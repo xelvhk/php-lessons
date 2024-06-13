@@ -16,16 +16,17 @@ This repository contains my solutions to practical problems in the course. The s
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/11-Sum-of-binary-digits.php">Sum of binary digits</a>
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/12-Removing-changing-and-reset-array-values.php">Removing, changing and reset array values</a>
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/13-array-item-index-check.php">Array item index check with ternary operator</a>
-- Adding prefix to array items
-- Swapping array items
-- Checking the sequence of numbers in an array
-- Сhecking for closing parentheses
-- Getting total amount from array
-- Formatting html code from array
-- Censoring a line
-- Counting of unique elements of two arrays
-- Sorting array with bubble method
-- Happy ticket
-- Searching for intersections of sorted arrays
-- Searching for nearest locations
-- Array flattening
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/14-Adding-prefix-to-array-items.php">Adding prefix to array items</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/15-Swapping-array-items.php">Swapping array items</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/16-Checking-sequence-of-numbers.php">Checking the sequence of numbers in an array</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/17-%D0%A1hecking-for-closing-parentheses.php">Сhecking for closing parentheses</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/18-Getting-total-amount-from-array.php">Getting total amount from array</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/19-Formatting-html-code-from-array.php">Formatting html code from array</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/20-Censoring-a-line.php">Censoring a line</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/21-Counting-of-unique-elements.php">Counting of unique elements of two arrays</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/22-Sorting-array-with-bubble-method.php">Sorting array with bubble method</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/23-Happy-ticket.php">Happy ticket</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/24-Searching-for-intersections.php">Searching for intersections of sorted arrays</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/25-Searching-for-nearest-locations-v-1.php">Searching for nearest locations v.1</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/26-Searching-for-nearest-locations-v-2.php">Searching for nearest locations v.2</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/27-Array-flattening.php">Array flattening</a>
