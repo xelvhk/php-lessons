@@ -30,4 +30,4 @@ This repository contains my solutions to practical problems in the course. The s
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/25-Searching-for-nearest-locations-v-1.php">Searching for nearest locations v.1</a>
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/26-Searching-for-nearest-locations-v-2.php">Searching for nearest locations v.2</a>
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/27-Array-flattening.php">Array flattening</a>
-- Sorting friendlist
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/30-sorting-friendlist.php">Sorting friendlist</a>
