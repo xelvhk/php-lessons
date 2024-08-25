@@ -32,3 +32,4 @@ This repository contains my solutions to practical problems in the course. The s
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/27-Array-flattening.php">Array flattening</a>
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/30-sorting-friendlist.php">Sorting friendlist</a>
 - <a href="https://github.com/xelvhk/php-lessons/blob/main/31-tests-practice.php">Function check (tests practice)</a>
+- <a href="https://github.com/xelvhk/php-lessons/blob/main/33-Automatic-tests.php">Automatic tests</a>
