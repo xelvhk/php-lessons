@@ -1,5 +1,5 @@
 <?php
-
+// =========== Task 30. Sorting users by girls count in friendslists ==============
 function getGirlFriends(array $users)
 {
     $allFriendsLists = array_map(fn($user) => $user['friends'], $users);
