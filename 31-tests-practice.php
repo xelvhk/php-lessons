@@ -1,4 +1,5 @@
 <?php
+// =========== Task 31. Tests creating practice ==============
 
 //Version 1
 $check1 = get(['hello' => 'world'], 'hello');
