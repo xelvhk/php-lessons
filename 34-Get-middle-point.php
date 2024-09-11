@@ -1,5 +1,5 @@
 <?php
-// =========== Task 32. Searching middle point ==============
+// =========== Task 34. Searching middle point ==============
 // v.1
 function getMidpoint($point1,$point2)
 {
