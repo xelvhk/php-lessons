@@ -1,5 +1,5 @@
 <?php
-
+// =========== Task 37. Virtual file system generator ==============
 namespace App\generator;
 
 use function Php\Immutable\Fs\Trees\trees\mkdir;
