@@ -1,5 +1,5 @@
 <?php
-
+// =========== Task 35. Creating abstraction middle point ==============
 function makeSegment($point1, $point2)
 {
     return ['beginPoint' => $point1, 'endPoint' => $point2]; 
